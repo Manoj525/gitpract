@@ -1,0 +1,4 @@
+FIRST Make sure all files in remote repo match with local repository and    then push newly added files otherwise push doesn't work. 
+It tells first pull and then push again
+
+17 July 2021
